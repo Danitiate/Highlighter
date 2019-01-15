@@ -1,0 +1,9 @@
+0 cat
+0 dog
+0 mouse
+0 horse
+- sheep
+0 dragon
+0 snake
++ monkey
++ fox

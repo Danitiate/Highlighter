@@ -1,0 +1,3 @@
+^\+\s.*: removed
+^\-\s.*: added
+^0\s.*: match

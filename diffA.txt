@@ -1,0 +1,7 @@
+cat
+dog
+horse
+mouse
+sheep
+dragon
+snake
