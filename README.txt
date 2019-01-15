@@ -1,4 +1,4 @@
-This directory contains 6 scripts, whereas 3 of them are demo files.
+This directory contains 5 scripts, whereas 3 of them are demo files.
 This document will cover the scripts: "highlighter.py", "grep.py" and "diff.py"
 
 
